@@ -1,3 +1,4 @@
+'use strict'
 function tokenizer(input){
 	let current = 0; //a code cursor
 	let tokens = []; //a toekn stack
